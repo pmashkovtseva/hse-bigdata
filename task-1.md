@@ -160,7 +160,7 @@ exit
 ssh team-74-nn
 ```
 
-21. (team@team-74-nn) переходим на пользователя hadoop:
+21. (team@team-74-nn) переходим на пользователя `hadoop`:
 ```
 sudo -i -u hadoop
 ```
