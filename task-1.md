@@ -105,7 +105,7 @@ sudo nano /etc/hosts
 ssh team-74-jn # либо вводить exit, пока не вернемся
 ```
 
-12. (team@team-74-jn) заходим на пользователя hadoop:
+12. (team@team-74-jn) заходим на пользователя `hadoop`:
 ```
 sudo -i -u hadoop
 ```
