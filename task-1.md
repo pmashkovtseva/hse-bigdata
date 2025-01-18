@@ -308,7 +308,7 @@ jps
 ssh team-74-jn # либо вводить exit до возвращения
 ```
 
-42. (team@team-74-jn) копируем конфиг nginxL
+42. (team@team-74-jn) копируем конфиг nginx:
 ```
 sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/nn
 ```
