@@ -80,7 +80,7 @@ sudo systemctl status postgresql
 exit
 ```
 
-14. устанавливаем клиент postgres:
+14. (team@team-74-jn) устанавливаем клиент postgres:
 ```
 sudo apt install postgresql-client-16 # версия 16 на 19.01.2025
 ```
